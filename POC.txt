@@ -11,3 +11,7 @@ Name: Santhavadhanan
 4. Attachment (Image, Audio, Video) Code.
 
 5. Hiding the Last Seen
+
+6. Adding the Audio call feature
+
+7. Adding the Video call featuure
