@@ -1,0 +1,11 @@
+Creating POC 
+
+Name: Santhavadhanan
+
+1. Profile page code
+
+2. Chat screen code
+
+3. Last Seen code
+
+4. Attachment (Image, Audio, Video) Code.
