@@ -9,3 +9,5 @@ Name: Santhavadhanan
 3. Last Seen code
 
 4. Attachment (Image, Audio, Video) Code.
+
+5. Hiding the Last Seen
